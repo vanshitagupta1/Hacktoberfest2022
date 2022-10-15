@@ -36,4 +36,4 @@ int main()
     B_S(V, n);
     display(V, n);
 }
-//comp:o(n2)
+//complexity:o(n2)
