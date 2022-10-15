@@ -1,4 +1,4 @@
-Hacktoberfest-2022 rule guid
+Hacktoberfest-2022 rule guide
 
 **Checkout this Project as well [Annoying Button😡](https://annoyingsubmitbutton.netlify.app/) , It's hacktoberfest github : [https://github.com/fineanmol/Annoying-submit-button](https://github.com/fineanmol/Annoying-submit-button)**
 
